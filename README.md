@@ -156,7 +156,7 @@ Scan a single directory:
 
 ```
 
-GadgetSniper.exe C:\\Windows\\System32\\example.dll
+GadgetSniper.exe C:\Windows\System32\example.dll
 
 ```
 
@@ -168,7 +168,7 @@ Recursive scan with custom output:
 
 ```
 
-GadgetSniper.exe C:\\Windows\\System32 --recursive --output sys32-gadgets.txt
+GadgetSniper.exe C:\Windows\System32 --recursive --output sys32-gadgets.txt
 
 ```
 
@@ -180,7 +180,7 @@ GadgetSniper.exe C:\\Windows\\System32 --recursive --output sys32-gadgets.txt
 
 ```
 
-|-> C:\\Windows\\System32\\example.dll
+|-> C:\Windows\System32\example.dll
 
 |--> Found 2 gadget(s)
 
